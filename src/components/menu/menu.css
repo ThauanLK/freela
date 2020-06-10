@@ -1,0 +1,19 @@
+.menu {
+  background-color: #00508a;
+  width: 100vw;
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.texto {
+  color: #fafafa;
+  font-size: 2.5em;
+}
