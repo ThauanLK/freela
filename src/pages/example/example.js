@@ -10,7 +10,7 @@ const Example = () => {
       <div className="container">
         <h1><span className="headline">Recomendações sobre o Corona</span></h1>
         <span className = "postdate">{new Date().toLocaleDateString()}</span>
-        <img className="coronaimg" src={Corona3} />
+        <img className="coronaimg" src={Corona3} alt=""/>
         <p className="content">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a semper
           lectus, scelerisque fermentum lectus. Duis vitae tortor elementum,
