@@ -1,14 +1,15 @@
 .content {
-  margin: 25px auto;
+  margin: 0px auto;
   text-align: left;
   overflow: hidden;
+  font-size: 1.25rem;
 }
 
 .headline {
   font-family: Calibri, "Helvetica", san-serif;
   line-height: 1.5em;
   color: #00508a;
-  font-size: 25px;
+  font-size: 2rem;
 }
 h1:after {
   content:' ';
@@ -20,4 +21,15 @@ h1:after {
   box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
   -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
   -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.coronaimg {
+  padding: 5px 0px 25px 0px;
+  width: 100%;
+  height: 17vw;
+}
+
+.postdate {
+  display: inline-block;
+  padding: 5px 0px;
 }
