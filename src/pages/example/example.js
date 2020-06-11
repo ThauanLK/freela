@@ -6,7 +6,25 @@ const Example = () => {
   return (
     <React.Fragment>
       <div className="container">
-        <img src={Corona} />
+        <h1><span className="headline">Recomendações sobre o Corona</span></h1>
+        {/*<img src={Corona} />*/}
+        <p className="content">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a semper
+          lectus, scelerisque fermentum lectus. Duis vitae tortor elementum,
+          lobortis libero et, tincidunt lectus. Ut eget massa tincidunt, maximus
+          lectus eu, dapibus eros. Donec lacus ex, iaculis ac tristique ac,
+          vulputate scelerisque diam. Nam sit amet mi in felis lacinia congue id
+          non augue. Ut elementum diam sed dolor auctor porta. Quisque bibendum
+          diam odio, et convallis urna pellentesque eget. Phasellus elementum
+          mattis justo sit amet fermentum. Nunc ac turpis sapien. In pharetra
+          massa id pulvinar sodales. Quisque ultricies, quam quis pretium
+          placerat, tortor velit volutpat risus, id hendrerit massa tortor et
+          diam. Praesent laoreet lacinia dapibus. Phasellus ut efficitur lectus,
+          eu sollicitudin elit. Sed facilisis, dolor in pellentesque vestibulum,
+          arcu augue facilisis magna, nec pellentesque diam dolor in justo. In
+          hac habitasse platea dictumst.
+        </p>
+
         <p className="content">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a semper
           lectus, scelerisque fermentum lectus. Duis vitae tortor elementum,
