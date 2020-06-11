@@ -7,8 +7,7 @@ const Footer = () => {
       <header></header>
       <section className="footer">
         <div className="container">
-          <p className="texto-footer">Desenvolvido por:</p>
-          <p className="texto-footer">Incrivel Lucas e Tuan Lixo</p>
+          <p className="texto-footer">Contatos:</p>
         </div>
       </section>
     </div>
