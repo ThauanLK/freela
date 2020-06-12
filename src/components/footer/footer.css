@@ -1,5 +1,6 @@
 .footer {
-  background-color: #00508a;
+  --background-color: #00508a;
+  background-color: #722c2d;
   width: 100vw;
   height: 13vh;
   display: flex;

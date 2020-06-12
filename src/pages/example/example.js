@@ -2,6 +2,7 @@ import React from "react";
 import Corona from "../../images/coronavirus-covid-19-15-700x374.webp";
 import Corona4 from "../../images/coronavirus4.jpg"
 import Corona3 from "../../images/corona3.jpg"
+import Corona2 from "../../images/corona2.jpg"
 import "./example.css";
 
 const Example = () => {
@@ -10,7 +11,7 @@ const Example = () => {
       <div className="container">
         <h1><span className="headline">Recomendações sobre o Corona</span></h1>
         <span className = "postdate">{new Date().toLocaleDateString()}</span>
-        <img className="coronaimg" src={Corona3} alt=""/>
+        <img className="coronaimg" src={Corona2} alt=""/>
         <p className="content">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a semper
           lectus, scelerisque fermentum lectus. Duis vitae tortor elementum,

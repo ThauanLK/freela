@@ -8,13 +8,13 @@
 .headline {
   font-family: Calibri, "Helvetica", san-serif;
   line-height: 1.5em;
-  color: #00508a;
+  color: #722c2d;
   font-size: 2rem;
 }
 h1:after {
   content:' ';
   display:block;
-  border:2px solid #d0d0d0;
+  border:2px solid #b48c94;
   border-radius:4px;
   -webkit-border-radius:4px;
   -moz-border-radius:4px;
