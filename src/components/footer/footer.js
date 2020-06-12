@@ -7,7 +7,8 @@ const Footer = () => {
       <header></header>
       <section className="footer">
         <div className="container">
-          <p className="texto-footer">Contatos:</p>
+          <p className="texto-footer">Hospital Pasteur</p>
+          <p className="texto-footer">Avenida Rio Branco, 75. CEP 20774-020</p>
         </div>
       </section>
     </div>
